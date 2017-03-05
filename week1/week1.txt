@@ -10,6 +10,7 @@ HTML
 An exellent table that lists the more common HTML5 tags: http://www.danfergusdesign.com/classfiles/generalReference/html5reference.php
 w3schools HTML5 tutorial: https://www.w3schools.com/html/default.asp
 HTML QUIZ.  Test your knowledge of HTML here: https://www.w3schools.com/html/html_quiz.asp
+HTML5 demystified...kinda (thanks @flowmar): http://html5doctor.com/you-can-still-use-div/
 
 CSS
 
