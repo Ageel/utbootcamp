@@ -1,0 +1,30 @@
+Git/Github Resources: "Don't stop, Git it, Git it."
+
+This link for understanding Git flow:  http://learngitbranching.js.org/ (thanks @charmeleon and @joshamaki)
+Getting started Git basics from the official Git site: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+Using Git - The Feature Branch Model YouTube 2:26 min video:  https://www.youtube.com/watch?v=j7YDbrS9I48
+A great repo by instructor @charmeleon on Github with various resources (Git, HTML, CSS, Javascript...etc): https://github.com/charmeleon/CodingBootcampLinks
+
+HTML
+
+An exellent table that lists the more common HTML5 tags: http://www.danfergusdesign.com/classfiles/generalReference/html5reference.php
+w3schools HTML5 tutorial: https://www.w3schools.com/html/default.asp
+HTML QUIZ.  Test your knowledge of HTML here: https://www.w3schools.com/html/html_quiz.asp
+
+CSS
+
+CSS Float and Clear Explained - How does CSS float and clear work? YT Video: https://www.youtube.com/watch?v=xara4Z1b18I
+Interactive practice for CSS positioning (thanks @nclespaul): http://class.riverland.edu/AU/dj1610fa/tutorial.04/demo/demo_positioning.htm
+Lesson 1.3 - Positioning in CSS (YT Video): https://www.youtube.com/watch?v=sHfJn0jqBro
+Lesson 1.3 - CSS Positioning Layout (YT Video): https://www.youtube.com/watch?v=yWXgnQaWSW0
+w3schools CSS positioning interactive guide: https://www.w3schools.com/cssref/playit.asp?filename=playcss_position&preval=absolute
+
+
+
+
+
+
+
+
+
+
